@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## About mi
+
+---
+
+I am passionate about technology and digital transformation. ✨
+
 <!--
 **luisalbertoi/luisalbertoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
