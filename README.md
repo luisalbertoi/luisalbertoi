@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-## About mi
-
----
+# About mi
 
 I am passionate about technology and digital transformation. ✨
 
