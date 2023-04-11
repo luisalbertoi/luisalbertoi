@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hola 👋
 
-# About mi
+# Sobre mi
 
-I am passionate about technology and digital transformation. ✨
+Soy un apasionado de la tecnología y la transformación digital. ✨ 
+
+* Quieres crear algo increíble [contáctame](mailto:alberdj987@gmail.com)
 
 <!--
 **luisalbertoi/luisalbertoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
